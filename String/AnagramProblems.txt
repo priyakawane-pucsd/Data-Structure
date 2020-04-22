@@ -1,0 +1,13 @@
+*****************************   Anagram Problems     *************************************************
+
+ 1   Check whether two strings are anagram of each other    ------------------------------------------>done
+ 2   Given a sequence of words, print all anagrams together | Set 2    -------------------------------> remain
+ 3   Anagram Substring Search (All Permutations)       ----------------------------------------------->done
+ 4   Print all pairs of anagrams in a given array of strings    --------------------------------------> remain
+ 5   Remove minimum number of characters so that two strings become anagram  -------------------------> done
+ 6   Check if two strings are k-anagrams or not   ---------------------------------------------------->  done
+ 7   Check if binary representations of two numbers are anagram  -------------------------------------> done
+ 8   Given a sequence of words, print all anagrams together using STL ------------------------------------>
+ 9   Check if all levels of two trees are anagrams or not   --------------------------------------------->
+ 10   Count of total anagram substrings    --------------------------------------------------------------->
+ 11  Minimum Number of Manipulations required to make two Strings Anagram Without Deletion of Character -----------> done

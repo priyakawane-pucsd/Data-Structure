@@ -1,0 +1,30 @@
+*************************Occurrence Based String******************************************
+ 1.   Given a string, find its first non-repeating character		------------>done
+ 2.   Print all permutations with repetition of characters		------------>
+ 3.   Find the first non-repeating character from a stream of characters  ------------>
+    Convert to a string that is repetition of a substring of k length
+    Smallest length string with repeated replacement of two distinct adjacent
+    Distributing all balls without repetition
+    Maximum consecutive repeating character in string
+    Minimum number of deletions so that no two consecutive are same
+    K’th Non-repeating Character
+    Find repeated character present first in a string
+    Find the first repeated word in a string
+    Find the first repeated character in a string
+    Second most repeated word in a sequence
+    Most frequent word in an array of strings
+    Efficiently find first repeated character in a string without using any additional data structure in one traversal
+    Queries for characters in a repeated string
+    Return maximum occurring character in an input string
+    Generate two output strings depending upon occurrence of character in input string.
+    Print characters and their frequencies in order of occurrence
+    Program to count occurrence of a given character in a string
+    Check if all occurrences of a character appear together
+    Group all occurrences of characters according to first appearance
+    Print the string by ignoring alternate occurrences of any character
+    Print the string after the specified character has occurred given no. of times
+    Find all occurrences of a given word in a matrix
+    Replace all occurrences of string AB with C without using extra space
+    Rearrange a binary string as alternate x and y occurrences
+    Remove recurring digits in a given number
+    Find the most frequent digit without using array/string 
