@@ -1,0 +1,13 @@
+1. Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to found--->done
+2. Given an array arr[] of positive integers of size N. Reverse every sub-array of K group elements ---------->done
+3. Reverse every alternate sub-array formed by consecutive k elements.-------> done
+4. Sort an array where a subarray of a sorted array is in reverse order------>done
+. Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required.
+   For example, given [(30, 75), (0, 50), (60, 150)], you should return 2. 
+
+
+------------------------------------------Conversion Problems-----------------------------------------------
+Program for Binary To Decimal Conversion ------------> done(%10 *2)
+Program for Decimal to Binary Conversion------------>done(%2)
+Program for decimal to octal conversion------------>done(%8)
+Program for Octal To Decimal Conversion------------->done(%10 *8)

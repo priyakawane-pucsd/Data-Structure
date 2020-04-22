@@ -1,0 +1,29 @@
+------------------------------------Matrix Problems----------------------------------------------------
+1 Program to check if two given matrices are identical--------->done
+2 program to find transpose of a matrix -------> done
+3 program for subtraction of matrices -------> done
+4 program for addition of two matrices -------> done
+5 program to multiply two matrices ------------> done
+6 Program for Print a given matrix in spiral form (IMP)-------------> done
+7 Program for A Boolean Matrix Question
+8 Program for Print Matrix Diagonally
+9 Program to find the number of islands
+10 Program to find maximum size square sub-matrix with all 1s
+11 program for the celebrity problem
+12 Program for Print a given matrix in spiral form
+13 Print a given matrix in reverse spiral form
+14 Print K'th element in spiral form of matrix
+15 Print a matrix in a spiral form starting from a point
+16 Print a given matrix in spiral form using direction tracking method
+17 Print a given matrix in counter-clock wise spiral form
+18 Print n x n spiral matrix using O(1) extra space
+19 Program to Print Matrix in Z form
+20 Print a given matrix in zigzag form
+21 Print matrix in antispiral form
+22 Print a matrix in Reverse Wave Form
+23 Circular Matrix (Construct a matrix with numbers 1 to m*n in spiral way)
+24 Level order traversal in spiral form
+25 Find the sum of the diagonal elements of the given N X N spiral matrix
+26 Sum of both diagonals of a spiral odd-order square matrix
+27 Program to print Spiral Pattern
+

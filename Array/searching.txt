@@ -1,0 +1,27 @@
+Search, insert and delete in an unsorted array    ----------->done
+Search, insert and delete in a sorted array      --------------->
+Given an array A[] and a number x, check for pair in A[] with sum as x
+Searching in an array where adjacent differ by at most k
+Find common elements in three sorted arrays
+Find position of an element in a sorted array of infinite numbers
+Find the only repetitive element between 1 to n-1
+Find the element that appears once
+Maximum Subarray Sum Excluding Certain Elements
+Maximum equlibrium sum in an array
+Equilibrium index of an array
+Leaders in an array
+Ceiling in a sorted array
+Majority Element
+Check for Majority Element in a sorted array
+Check if an array has a majority element
+Two Pointers Technique
+Find a peak element
+Find the two repeating elements in a given array
+Find a Fixed Point in a given array
+Find sub-array with given sum
+Maximum triplet sum in array
+Smallest Difference Triplet from Three arrays
+Find a triplet that sum to a given value
+Find all triplets with zero sum 
+
+
